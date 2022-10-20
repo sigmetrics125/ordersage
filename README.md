@@ -1,3 +1,5 @@
+![ordersage-logo](https://user-images.githubusercontent.com/116201452/196832222-e7f67f89-b7b3-4f38-8a6f-61d808d852ef.png)
+
 # OrderSage
 
 This repo contains the code for running benchmarks in fixed/randomized orders on specified remote resources.
